@@ -55,7 +55,7 @@ There are two "workarounds" for this issue: one on my end and one for the user.
 
 1. Download the `.zip` file from this repository, or you can check the [releases](https://github.com/Notimagination/galaxy-localgames-integration/releases) page for the latest updates.
    
- <img width="930" height="351" alt="Captura de pantalla 2026-10-04 215901" src="https://github.com/user-attachments/assets/e9b32e34-fd6e-4b3e-8412-d43addc2ae3d" />
+ <img width="923" height="382" alt="Captura de pantalla 2026-10-08 183726" src="https://github.com/user-attachments/assets/87f266f9-ac48-42eb-9839-295c74fafc89" />
 
 2. Extract and move the `LocalGamesPlugin` folder to your GOG Galaxy plugins directory:
 
