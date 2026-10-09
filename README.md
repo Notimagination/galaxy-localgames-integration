@@ -24,6 +24,26 @@ In short, that's it: add the .exe **YOU** want, add as many games as **YOU** wan
 
 <img width="352" height="198" alt="Captura de pantalla 2026-10-08 175742" src="https://github.com/user-attachments/assets/edfe82a7-7ee3-41f5-a904-11789fab57c8" />
 
+### Q: Why don't the cover art and details appear when importing the .exe file of a "known" game?
+
+**A:** This is where one of the most frustrating limitations comes in. Unlike emulator ROMs, where each game is identified by an ID, these games must be detected by their literal names. For example:
+
+If you import *Stellar Blade* but name it "Gooner game," it won't display the game's data or cover art.
+
+If you name it "Stellar Blade"—its actual name—then the data will appear. This applies to any game.
+
+Does that mean you can't name it whatever you want? No, you can use whatever name, cover art, and images you like; it’s just that if you want the system to recognize the "real" game, you have to use its actual name. Ultimately, it’s purely a matter of aesthetics, as the game remains fully playable either way.
+
+### Q: Why do some games show up as "Unknown game"?
+
+**A** As I explained earlier and [here](https://github.com/Notimagination/galaxy-ps2-integration-renew#-frequently-asked-questions-faq):
+
+GOG forces the use of its database, which is somewhat limited. So, if—as I mentioned above—a game doesn't have a name recognized by their database, *bam*: "Unknown game." If an emulator ROM lacks an ID that GOG recognizes, *bam*: "Unknown game."
+
+As the developer, there’s really nothing I can do about it, no matter how many "workarounds" I look for. That’s just how GOG works; it has its limitations. Maybe someday they’ll "open up" a bit more.
+
+In the meantime, whenever a game appears as "Unknown game," simply add the name and cover art yourself.
+
 ## ❗Limitations
 
 The plugin has certain limitations—which are quite annoying—but they are beyond my control because that is simply how GOG works.
