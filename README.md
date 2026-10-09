@@ -36,7 +36,7 @@ Does that mean you can't name it whatever you want? No, you can use whatever nam
 
 ### Q: Why do some games show up as "Unknown game"?
 
-**A** As I explained earlier and [here](https://github.com/Notimagination/galaxy-ps2-integration-renew#-frequently-asked-questions-faq):
+**A:** As I explained earlier and [here](https://github.com/Notimagination/galaxy-ps2-integration-renew#-frequently-asked-questions-faq):
 
 GOG forces the use of its database, which is somewhat limited. So, if—as I mentioned above—a game doesn't have a name recognized by their database, *bam*: "Unknown game." If an emulator ROM lacks an ID that GOG recognizes, *bam*: "Unknown game."
 
