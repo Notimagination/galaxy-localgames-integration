@@ -97,5 +97,5 @@ There are two "workarounds" for this issue: one on my end and one for the user.
 
 🎫 **Having problems? Open a ticket on the [Issues](https://github.com/Notimagination/galaxy-ps2-integration-renew/issues) page**.
 
-* I need the log file generated at `%programdata%\GOG.com\Galaxy` (`plugin-test-673e50d9-96b9-4d83-8f7b-7db28c7119e7.log`)
+* I need the log file generated at`%programdata%\GOG.com\Galaxy` (`plugin-test-673e50d9-96b9-4d83-8f7b-7db28c7119e7.log`)
 
