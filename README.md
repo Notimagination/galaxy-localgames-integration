@@ -62,7 +62,7 @@ There are two "workarounds" for this issue: one on my end and one for the user.
 | Integration | Status | Achievements | Game Time | Download |
 |-------------|--------|--------------|-----------|----------|
 | PS2 | ✅ Released | ⚠️ | ✅ | [Download](https://github.com/Notimagination/galaxy-ps2-integration-renew/tree/main) |
-| NES | ✅ Released | ⚠️ / ❌ (Mesen don't support) | ✅ | [Download](https://github.com/Notimagination/galaxy-nes-integration) |
+| NES | ✅ Released | ⚠️ | ✅ | [Download](https://github.com/Notimagination/galaxy-nes-integration) |
 | Switch | ✅ Released  | ❌ | ✅ | [Download](https://github.com/Notimagination/galaxy-switch-integration) |
 | PSP | ⏳ Planned | ⚠️ | ✅ | Download |
 | WII | ⏳ Planned | ⚠️ | ✅ | Download |
